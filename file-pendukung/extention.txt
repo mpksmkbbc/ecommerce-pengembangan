@@ -1,0 +1,12 @@
+Extensi Visual Studio Code
+
+1. Laravel artisan
+2. Laravel blade snippets
+3. Laravel blade spacer
+4. laravel go to view
+5. Laravel snippets
+6. laravel go to controller
+7. php intelephense
+8. material icon
+9. beautify
+10. PHP intelephense
